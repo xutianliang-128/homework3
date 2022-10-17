@@ -83,7 +83,7 @@ footer{
 nav{
   background-color: #ddd;
   padding: 20px 0;
-  text-align: center;
+  text-align: left;
   /*Your code here*/
   grid-column: 1 / -1
   /*Span the top row*/
